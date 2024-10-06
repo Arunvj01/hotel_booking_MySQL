@@ -1,0 +1,45 @@
+# Hotel Management System
+
+## Overview
+
+The Hotel Management System is a comprehensive database project designed to manage hotel bookings, customer information, room details, amenities, reviews, and payments. This system allows hotel administrators to efficiently handle operations and provide a better experience for their customers.
+
+## Tables
+
+The database consists of the following tables:
+
+1. **Hotels**
+   - Stores information about hotels including name, location, rating, description, and contact details.
+
+2. **Rooms**
+   - Contains details about the rooms available in each hotel, including room number, type, price per night, and availability status.
+
+3. **Customers**
+   - Holds customer information such as name, email, phone number, and address.
+
+4. **Bookings**
+   - Records details of bookings made by customers, including check-in and check-out dates, total amount, and booking status.
+
+5. **Payments**
+   - Manages payment details for bookings, including amount, date, payment method, and status.
+
+6. **Amenities**
+   - Lists amenities offered by each hotel, including type and description.
+
+7. **Reviews**
+   - Stores customer reviews for hotels, including rating, comment, and review date.
+
+## Features
+
+- Create, Read, Update, Delete (CRUD) operations for each table.
+
+- Data integrity through foreign key relationships.
+
+## Getting Started
+
+### Prerequisites
+
+- A SQL database management system (e.g., MySQL, PostgreSQL, SQL Server).
+- SQL client software to run the scripts (e.g., MySQL Workbench, pgAdmin).
+
+
