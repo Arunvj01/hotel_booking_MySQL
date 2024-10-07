@@ -8,25 +8,25 @@ The Hotel Management System is a comprehensive database project designed to mana
 
 The database consists of the following tables:
 
-1. **Hotels**
+1. Hotels
    - Stores information about hotels including name, location, rating, description, and contact details.
 
-2. **Rooms**
+2. Rooms
    - Contains details about the rooms available in each hotel, including room number, type, price per night, and availability status.
 
-3. **Customers**
+3. Customers
    - Holds customer information such as name, email, phone number, and address.
 
-4. **Bookings**
+4. Bookings
    - Records details of bookings made by customers, including check-in and check-out dates, total amount, and booking status.
 
-5. **Payments**
+5. Payments
    - Manages payment details for bookings, including amount, date, payment method, and status.
 
-6. **Amenities**
+6. Amenities
    - Lists amenities offered by each hotel, including type and description.
 
-7. **Reviews**
+7. Reviews
    - Stores customer reviews for hotels, including rating, comment, and review date.
 
 ## Features
